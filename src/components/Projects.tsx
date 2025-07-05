@@ -7,8 +7,8 @@ const Projects = () => {
       title: 'Personal Portfolio Website',
       description: 'A responsive personal portfolio website built with React and Tailwind CSS. Features smooth scrolling, modern UI components, and clean design elements.',
       technologies: ['React', 'Tailwind CSS', 'JavaScript', 'Responsive Design'],
-      githubLink: 'https://github.com/sanjana/portfolio',
-      liveLink: 'https://sanjana-portfolio.netlify.app',
+      githubLink: 'https://github.com/SanjanaMATHUR1014/my-portfolio',
+      liveLink: 'https://mathur-sanju.vercel.app/',
       icon: <Sparkles className="text-white" size={24} />,
       featured: true
     },
@@ -22,23 +22,15 @@ const Projects = () => {
       featured: true
     },
     {
-      title: 'Weather Dashboard Pro',
-      description: 'An advanced weather application with real-time weather data, 7-day forecasts, interactive maps, and location-based weather alerts using OpenWeatherMap API.',
-      technologies: ['React', 'Weather API', 'Geolocation', 'Charts.js', 'CSS3'],
-      githubLink: 'https://github.com/sanjana/weather-dashboard',
-      liveLink: 'https://sanjana-weather-pro.netlify.app',
+      title: 'Saarthi-MedCare',
+      description: 'your medical assistance ...Available 24/7 for you to take care of your mental health',
+      technologies: ['React',  'CSS3'],
+      githubLink: 'https://github.com/SanjanaMATHUR1014/Saarthi',
+      liveLink: 'https://saarthi-medcare.vercel.app/',
       icon: <Cloud className="text-white" size={24} />,
       featured: true
     },
-    {
-      title: 'Smart Expense Tracker',
-      description: 'A unique expense tracking application with AI-powered categorization, budget planning, visual analytics, and financial insights to help users manage their finances effectively.',
-      technologies: ['React', 'Chart.js', 'Local Storage', 'AI Integration', 'PWA'],
-      githubLink: 'https://github.com/sanjana/expense-tracker',
-      liveLink: 'https://smart-expense-tracker.netlify.app',
-      icon: <Code className="text-white" size={24} />,
-      featured: true
-    }
+    
   ];
 
   return (

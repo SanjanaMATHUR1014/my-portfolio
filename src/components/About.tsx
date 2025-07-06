@@ -23,7 +23,7 @@ const About = () => {
                   <h3 className="text-xl font-semibold text-white">Education</h3>
                 </div>
                 <p className="text-gray-300 leading-relaxed">
-                  Currently pursuing BTech in Computer Science & Engineering. Graduated from DAV Public School, Raniganj, W.B. with strong academic performance - 90% in matriculation and 81% in intermediate.
+                  Currently pursuing BTech in Computer Science & Engineering. Graduated from R.L.J.D.M.C DAV Public School, Raniganj, W.B. with strong academic performance - 90% in matriculation and 81% in intermediate.
                 </p>
               </div>
 

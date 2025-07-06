@@ -26,14 +26,14 @@ const Contact = () => {
     {
       icon: <Mail className="text-white" size={24} />,
       title: 'Email',
-      content: 'sanjana.mathur@email.com',
-      link: 'mailto:sanjana.mathur@email.com'
+      content: '14sanjanamathur@gmail.com',
+      link: 'mailto:14sanjanamathur@gmail.com'
     },
     {
       icon: <Phone className="text-white" size={24} />,
       title: 'Phone',
-      content: '+91 98765 43210',
-      link: 'tel:+919876543210'
+      content: '+91 7478909738',
+      link: 'tel:+917478909738'
     },
     {
       icon: <MapPin className="text-white" size={24} />,
@@ -216,7 +216,7 @@ const Contact = () => {
           {/* Footer */}
           <div className="mt-16 text-center border-t border-gray-600 pt-8">
             <p className="text-gray-400">
-              © 2024 Sanjana Mathur. Built with React & Tailwind CSS.
+              © 2025 Sanjana Mathur. Built with React & Tailwind CSS.
             </p>
           </div>
         </div>

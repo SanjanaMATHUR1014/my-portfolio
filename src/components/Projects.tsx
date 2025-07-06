@@ -16,8 +16,8 @@ const Projects = () => {
       title: 'StudyNotes Hub',
       description: 'A comprehensive web platform where I uploaded and organized study notes for all semesters. Features categorized notes, search functionality, and easy navigation for students.',
       technologies: ['React', 'Node.js', 'MongoDB', 'File Upload', 'Search API'],
-      githubLink: 'https://github.com/sanjana/studynotes-hub',
-      liveLink: 'https://studynotes-hub.netlify.app',
+      githubLink: 'https://github.com/SanjanaMATHUR1014/notes-hub',
+      liveLink: 'https://notes-hub-two.vercel.app/',
       icon: <BookOpen className="text-white" size={24} />,
       featured: true
     },

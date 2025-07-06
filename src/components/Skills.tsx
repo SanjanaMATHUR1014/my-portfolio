@@ -16,7 +16,7 @@ const Skills = () => {
     {
       icon: <Tool className="text-white" size={32} />,
       title: 'Tools & Technologies',
-      skills: ['Git & GitHub', 'VS Code']
+      skills: ['Git & GitHub', 'VS Code','Intellij idea']
     },
     {
       icon: <Brain className="text-white" size={32} />,
